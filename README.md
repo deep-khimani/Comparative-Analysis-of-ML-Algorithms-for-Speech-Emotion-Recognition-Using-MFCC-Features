@@ -43,7 +43,7 @@ To develop a speech emotion recognition system and **compare the performance** o
 |---------------------|----------|
 | MLPClassifier        | 76.60%   |
 | Logistic Regression  | ~69.59%  |
-| K-Nearest Neighbors  | ~70.76%  |
+| K-Nearest Neighbors  | ~61.40%  |
 | Random Forest        | **78.94%** |
 | SVM (Support Vector Machine) | **78.94%** |
 | XGBoost              | ~71.34%  |
